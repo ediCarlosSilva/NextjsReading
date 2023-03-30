@@ -1,2 +1,4 @@
 https://nextjs.org/learn/foundations/from-javascript-to-react/updating-ui-with-javascript
+https://nextjs.org/learn/foundations/from-javascript-to-react/essential-javascript-react
 
+But if you don’t feel proficient in JavaScript yet, don’t let this hinder you from starting to build with React!
