@@ -18,7 +18,6 @@ export default function HomePage() {
 
                 <div>
                     <Header title="Develop. Preview. Ship. 🚀" />
-                    <Header title="React 💙" />
 
                     <ul>
                         {names.map((name) => (
