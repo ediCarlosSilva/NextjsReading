@@ -2,3 +2,19 @@ https://nextjs.org/learn/foundations/from-javascript-to-react/updating-ui-with-j
 https://nextjs.org/learn/foundations/from-javascript-to-react/essential-javascript-react
 
 But if you don’t feel proficient in JavaScript yet, don’t let this hinder you from starting to build with React!
+
+https://nextjs.org/learn/foundations/from-javascript-to-react/adding-interactivity-with-state
+
+https://nextjs.org/learn/foundations/from-javascript-to-react/continue-learning-react
+
+* How React handles renders and how to use refs
+* How to manage state
+* How to use context for deeply nested data
+* How to use React API hooks such as useEffect()
+
+React Documentation
+https://beta.reactjs.org/learn
+https://react.dev/learn
+
+
+
