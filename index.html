@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Documentacao Next</title>
 </head>
+
 <body>
     <div id="app"></div>
 
@@ -16,15 +18,16 @@
     <script type="text/jsx">
         const app = document.getElementById('app');
 
-        function Header() {
-            return (<h1>Develop, Preview, Ship. 🚀</h1>);
+        function Header({title}) {
+            console.log(title);
+        return (<h1>title</h1>);
         }
 
         function HomePage() {
             return (
 
                 <div>
-                    <Header />
+                    <Header title="React" />
                 </div>
             );
         }
@@ -32,4 +35,5 @@
         ReactDOM.render(<HomePage />, app);
     </script>
 </body>
+
 </html>
