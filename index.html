@@ -20,6 +20,16 @@
             return (<h1>Develop, Preview, Ship. 🚀</h1>);
         }
 
+        function HomePage() {
+            return (
+                {/* Nesting the Header component */}
+
+                <Header />
+            );
+            
+            <div></div>
+        }
+
         ReactDOM.render(<Header />, app);
     </script>
 </body>
