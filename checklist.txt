@@ -17,4 +17,9 @@ https://beta.reactjs.org/learn
 https://react.dev/learn
 
 
+https://react.dev/learn
+
+How Next.js Works
+https://nextjs.org/learn/foundations/how-nextjs-works
+
 
